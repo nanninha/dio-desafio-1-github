@@ -1,0 +1,11 @@
+conceitos básicos
+	Requisitos->
+	reduzir desperdicio
+	tradicional: casacata (demanda muito tempo, pouco objetivo, burocrático, cliente insatisfeito)
+	scrum: dividido em partes (1 mes, é interativo)
+	preditivoXadaptativo
+	fases macrosxfuncionalidades entregues
+	funcionando ao finalx ver parte funcionando
+	resistência a mudanças x feeedbacks continuos
+papeis
+cerimonia

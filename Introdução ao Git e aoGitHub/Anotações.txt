@@ -50,3 +50,4 @@ Git config --global user.email "marianacarneiro.csg@gail.com"
  git add . (adicionar mudanças)
 
 git commit -m "inclusão das anotações"
+git push origin main
