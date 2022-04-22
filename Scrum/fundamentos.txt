@@ -1,0 +1,39 @@
+- papeis e responsabilidades do PO:
+	tem a visão do que desevá ser desenvolvido
+	define a ordem em que as atividades serão desenvolvidas 
+	responsavel por validar sprint
+	responsavel por cancelar sprint
+	define as funcionalidades dentro do software
+	representante da area de negocios
+	acompanhe diariamente o desenvolvimento
+	Refining e Planning (PO só participa da primeirea parte)
+	cada história
+	Definir sprint e backlog - como validar
+	Realease Planning: Multiplas Squads (varios times de desenvolvimento ao mesmo tempo)
+			   de Projeto (quebrar a demanda em varias histórias, quebrar o maximo possivel)
+	gerenciar expectativas 
+	maior valor primeiro
+	definir as entregas, organizar sprint, ajustar história e organizar
+	atualizações em excesso desmotiva
+	combinação entre projetos
+
+- definindo escopo e prioridades
+	objetivo e valor que você quer atingir
+	agregar valor a cada entrega
+	validar a entrega
+	- Product Backlog: épicos= incremento sem muito detalhamento, ajuda a direcionar os caminhos
+			   estórias= detalhamento dos épicos, divisão de estórias e regras de negócios
+			nunca se acaba para manter o produto sempre em evolução
+	- Escrevendo uma estória
+		Nome
+		Descrição 
+		Regras
+		Tela
+		KPI
+		TAgueamento
+		Critérios de Aceite
+	- Riscos positivos e negativos
+
+	
+
+	
