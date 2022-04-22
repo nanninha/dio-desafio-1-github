@@ -1,0 +1,52 @@
+Gitbash teminal para uso do git
+git clone
+git status
+Cls/ clear -limpar
+Cd .. - voltar diretório
+Dir/ls -lista de diretórios
+Tab -autocompletar
+Mkdir -criar dirtetório
+Silence on sucess- conceito: se der certo não aparece nada
+Ctrl+l - atalho para limpar a tela no bash
+Sudo su- permissão no linux
+Echo - printa msg na tela
+echo hello > hello.txt
+Dell - deleta arquivos
+Rmdir -remover diretório
+rmdir workspace /s /q
+Linux: rm -rf workspace
+
+Sha1 - Algoritmo de encriptação, desenvolvido pela Agência de Segurança Nacional dos EUA 
+	Gera conjunto de 40 caracteres (único, identificação)
+	É uma forma curta de representar um arquivo
+	Armazena metadados dos objetos
+	
+	openssl sha1 text.txt (para criar)
+	
+	
+	
+Objetos fundamentais-
+	Blobs - arquivos (metadados)- bloco basico de composição, sha1 do arquivo
+	Tree- armazena e aponta para tipo de blobs diferentes, sha1 do metadado, monta a estrutura 
+	Commit- junta tudo, da sentido a tudo que está acontecendo, tem autor e mensagem, tem o carimbo de tempo, possuem sha1, é único
+Chave SSH (  forma de se estabeler uma coneção segura e 
+ssh-keygen -t ed25519 -c marianacarneiro.csg@gmail.com
+cd /c/Users/maria/.ssh
+cat id_ed25519.pub (chave pública)
+eval $(ssh-agent -s)-, starta um projeto
+ssh-add id_ed25519
+
+
+criptada entre duas máquinas), token
+Sistema distribuído
+Segurança
+
+	- Git init: mover arquivo
+	- Git add
+	- Git commit
+Ls -a oculto
+Git config --global user.email "marianacarneiro.csg@gail.com"
+
+ git add . (adicionar mudanças)
+
+git commit -m "inclusão das anotações"
