@@ -1,11 +1,55 @@
 conceitos básicos
 	Requisitos->
 	reduzir desperdicio
-	tradicional: casacata (demanda muito tempo, pouco objetivo, burocrático, cliente insatisfeito)
+	tradicional(waterfall): casacata (demanda muito tempo, pouco objetivo, burocrático, cliente insatisfeito)
 	scrum: dividido em partes (1 mes, é interativo)
 	preditivoXadaptativo
 	fases macrosxfuncionalidades entregues
 	funcionando ao finalx ver parte funcionando
 	resistência a mudanças x feeedbacks continuos
+	agil diferente de rapido- rapidez de mudança
+	fazer coisas complexas de forma simples
+	maior valor para o cliente
+	scrum é um frameworks de gerenciamento
+	multidiciplinares
+	pilares: transparencia, adaptação e inspeção
+	aprender progressivamente
+	redução de incertezas
+	priorização do backlog
+	usuário envolvido durante todo o ciclo
+	todos responsáveis
+	comprometimento com os resultados
+	minimo produto viavel (evoluindo o produto)
 papeis
+	product owner(PO)- representante de negócios, 
+	define as funcionalidades e prioriza
+	esplica para o desenvolvimento os itens do backlog
+	
+	scrum master (SM)
+	garente o uso correto do SCRUM
+	é o facilitador
+	auxilia o PO no planejamento e estimativas do backlog
+	treina o time em autogerenciamento e interdisciplinaridade
+
+	time de desenvolvimento (DEV)- 3 a 9 pessoas
+	desenvolver, testar, criar e desenhar
+	multidisciplinar
+
 cerimonia
+	time box: tempo máximo para fazer a cerimonia
+
+	Sprint (corrida, arrancada): principal evento,
+	quem define o tempo é o time o PO e o SM
+	máximo 30 dias corridos 
+	-planejamento (8 hoas)
+	Primeiras 4 horas: O que fazer (PO)
+	Outras 4 horas: como fazer (Time de DEV)- Planning Poker
+	- REuniões diárias( Daily Meeting)
+	time, PO e SM para responder as perguntas to do, doing, done
+	reunião de pé ( 15 minutos)
+	- Revisão da Sprint (Review)
+	4horas, o time apresenta para o PO o trabalho feito
+	- REtrospectiva
+	3 horas (ultimo dia)- desenvolvimento para ver as falhas e melhorar
+	
+		
