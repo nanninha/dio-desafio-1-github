@@ -1,0 +1,29 @@
+termos-chaves
+	keylogger
+	phishing
+	firewall- impedir acesso malicioso
+	click bait- roubar dados
+Redes- 
+Backbone- espinha dorsal
+Provedor de acesso- empresas telefonicas
+Provedor de serviço- fibra ótica
+Usuário final
+
+DNS- transforma um endereço de página em um IP
+127.0.0.1- localhost
+
+TCP/IP - protocolo de controle de trasmissão / ptotocolo de internet
+	modelo de camadas: placa de rede, rede (IP), trasporte(TCP) e aplicação(http)
+smtp- email
+TCP (confirma se recebeu) x UDP(rápido e não confiável)
+portas
+20: FTP
+22: SSH
+25: SMTP
+53: DNS
+80: HTTP
+443: HTTPS
+
+roteadores
+switch
+
