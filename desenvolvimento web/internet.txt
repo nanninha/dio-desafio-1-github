@@ -27,3 +27,37 @@ portas
 roteadores
 switch
 
+dados móveis
+	SMS- custa nada para uma operadora enviar
+	troca de informação o tempo inteiro com a torre
+	MMS- video junto
+3G(7Mbps), 4G(22,1Mbps),5G(10Gbps)
+wi-fi
+	IEEE padrões para wi-fi
+	2,4 GHz e 5GHZ
+	Segurança WEP, WPA, WPA2 (o mais seguro) 
+bluetooth
+	conexão ponto a ponto (3 classes alcance 100m, 10m, 1m)
+browser
+	programa que sabe identificar várias linguagens de programação
+	linguagem de marcação e conteudo mutimidia
+	cache e cookies (rastros)
+Pagina estática x página dinâmica
+https://web.archive.org/web/
+web-server
+	onde fica guardado nossos dados
+	estático x dinâmico (tudo misturado)
+	Arquivos ( file server)
+	Aplicações (aplication server)
+	Banco de dados (database)
+	precisa de um servidor
+stacks(pilhas de tecnologia)
+	front-end
+		interface, UI, UX
+		JQuery
+	back-end
+	fullstack
+	
+
+
+
