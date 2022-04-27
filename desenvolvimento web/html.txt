@@ -1,0 +1,19 @@
+semântica
+	<section>
+	<header>
+	<article> conteúdo principal da página
+	<aside> conteúdo relacionado ao principal da página
+	<footer>
+	<h1>-<h6>
+	<p>
+	<a> href ou target principais elementos</a>
+	<img src="">
+	<img alt=""> descrição da foto, o que a imagem significa
+	
+
+última versão 2014 html5
+	elemento, atributo e tag de fechamento
+
+lista
+	agrupar seleção de itens
+	tags li (é um item dessa lista), ul (a ordem da lista não é importante) e ol

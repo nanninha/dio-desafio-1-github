@@ -54,10 +54,14 @@ web-server
 stacks(pilhas de tecnologia)
 	front-end
 		interface, UI, UX
-		JQuery
+		JQuery, AJAX
 	back-end
 	fullstack
 	
-
+404- qdo a página não existe
+ALT- TEXTO ALTERNATIVO
+BOOOTSTRAP-
+Apache, MySQL, PHP
+XAMPP
 
 
